@@ -1,8 +1,14 @@
 <div id="header" align="center">
-  <p><h1>Hi there 👋 I am Abhishek
+  <p><h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>!!! I am Abhishek
   <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100" align="right"/></h1>
   </p>
 </div>
+
+ ### :fire: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Pashte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools 
 
@@ -22,18 +28,19 @@
 </div>
 <hr>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
-
-
-<div id="badges" align="center" >
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="your-twitter-URL" align="center">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<hr>
+ ### Connect with me
+ 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/><br>
+        <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
+        </a>&nbsp;
+        <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" align="center"/>
+        </a>&nbsp;
+        <a href="your-twitter-URL">
+          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" align="center"/>
+        </a>
+  </div>
+ <hr>
+ 
