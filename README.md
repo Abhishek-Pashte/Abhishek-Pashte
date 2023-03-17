@@ -7,10 +7,7 @@
 </div>
 
 ### :fire: My Stats
-
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Pashte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pashte&hide=stars,issues,contribs)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools
