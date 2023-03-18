@@ -38,15 +38,15 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" /><br>
-    <a href="your-linkedin-URL">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/abhishek-pashte/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" align="center" />
     </a>&nbsp;
-    <a href="your-linkedin-URL">
+    <a href="[your-linkedin-URL](https://github.com/Abhishek-Pashte)">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
             alt="GitHub Badge" align="center" />
     </a>&nbsp;
-    <a href="your-twitter-URL">
+    <a href="[your-twitter-URL](https://twitter.com/AbhishekPashte2)">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
             alt="Twitter Badge" align="center" />
     </a>
