@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <p>
-        <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />!!! I am Abhishek
+        <h1>Hi folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />! I'm Abhishek
             <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100" align="right" />
         </h1>
     </p>
