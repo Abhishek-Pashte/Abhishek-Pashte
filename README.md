@@ -7,7 +7,19 @@
 </div>
 
 ### :fire: My Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pashte&hide=stars,issues,contribs)
+<div>
+    <table>
+        <tr>
+            <td>
+                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-pashte&show_icons=true&theme=tokyonight&layout=compact"/>
+            </td>
+            <td>
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Pashte&hide=stars,issues,contribs&theme=tokyonight">
+<!--                 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Pashte&hide=stars,issues,contribs&theme=tokyonight) -->
+            </td>    
+        </tr>
+    </table>
+</div>
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools
